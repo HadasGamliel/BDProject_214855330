@@ -1,0 +1,401 @@
+﻿EventID,EventName,EventDate,Location,ShulID
+1,Special Prayer for Soldiers,2025-05-19,Netzarim Base,101
+2,Evening of Songs and Remembrance,2025-05-23,Negev Junction,10
+3,Melaveh Malka Meal,2025-06-27,Negev Junction,137
+4,Melaveh Malka Meal,2025-08-01,Negev Junction,237
+5,Special Prayer for Soldiers,2025-07-18,Ashdod Base,34
+6,Megillah Reading,2025-08-20,Julis Base,319
+7,Joint Study Session,2025-07-23,Tzeelim,153
+8,Megillah Reading,2025-07-21,Haifa Port,373
+9,Evening of Songs and Remembrance,2025-08-11,Ashdod Base,239
+10,Joint Selichot,2025-08-27,Michve Alon,1
+11,Torah Lesson,2025-06-15,Tzeelim,43
+12,Melaveh Malka Meal,2025-05-27,Kirya Tel Aviv,93
+13,Lecture with Military Rabbi,2025-08-30,Sde Dov,216
+14,Hanukkah Event,2025-07-11,Bahad 1,17
+15,Halacha Seminar,2025-07-31,Eilat Base,72
+16,Torah Lesson,2025-09-02,Sde Dov,63
+17,Hanukkah Event,2025-07-14,Glilot,221
+18,Rosh Chodesh Prayer,2025-08-18,Mitzpe Ramon,31
+19,Lecture on IDF and Judaism,2025-06-28,Glilot,289
+20,Rosh Chodesh Prayer,2025-09-05,Kirya Tel Aviv,379
+21,Lecture with Military Rabbi,2025-08-23,Mitzpe Ramon,108
+22,Megillah Reading,2025-06-09,Kiryat Shmona,334
+23,Joint Selichot,2025-08-11,Tzeelim,176
+24,Torah Lesson,2025-08-18,Ashdod Base,326
+25,Lecture with Military Rabbi,2025-05-16,Michve Alon,206
+26,Evening of Songs and Remembrance,2025-08-28,Bahad 1,318
+27,Hanukkah Event,2025-08-03,Palmachim,47
+28,Joint Selichot,2025-07-22,Ramat David,143
+29,Joint Study Session,2025-06-03,Bislach,83
+30,Battalion Shabbaton,2025-05-23,Ramat David,57
+31,Megillah Reading,2025-05-18,Kirya Tel Aviv,310
+32,Evening of Songs and Remembrance,2025-08-05,Haifa Port,199
+33,Torah Lesson,2025-08-06,Ramat David,32
+34,Lecture on IDF and Judaism,2025-06-12,Haifa Port,65
+35,Lecture on IDF and Judaism,2025-05-28,Bahad 1,318
+36,Halacha Seminar,2025-07-15,Kirya Tel Aviv,307
+37,Hanukkah Event,2025-06-13,Bahad 1,296
+38,Lecture with Military Rabbi,2025-06-20,Negev Junction,353
+39,Torah Lesson,2025-05-14,Ashdod Base,232
+40,Special Prayer for Soldiers,2025-06-06,Sde Dov,182
+41,Evening of Songs and Remembrance,2025-08-01,Kirya Tel Aviv,54
+42,Melaveh Malka Meal,2025-07-21,Ashdod Base,379
+43,Joint Study Session,2025-07-02,Mitzpe Ramon,52
+44,Torah Lesson,2025-07-21,Kiryat Shmona,134
+45,Halacha Seminar,2025-08-27,Haifa Port,92
+46,Torah Lesson,2025-09-01,Mitzpe Ramon,250
+47,Special Prayer for Soldiers,2025-05-27,Netzarim Base,99
+48,Rosh Chodesh Prayer,2025-06-29,Glilot,339
+49,Halacha Seminar,2025-05-23,Mitzpe Ramon,58
+50,Halacha Seminar,2025-05-16,Mitzpe Ramon,9
+51,Lecture with Military Rabbi,2025-05-19,Camp Dotan,212
+52,Special Prayer for Soldiers,2025-07-22,Tzeelim,290
+53,Halacha Seminar,2025-09-09,Eilat Base,87
+54,Evening of Songs and Remembrance,2025-06-22,Glilot,141
+55,Lecture on IDF and Judaism,2025-06-27,Netzarim Base,331
+56,Torah Lesson,2025-08-04,Be'er Sheva Base,236
+57,Rosh Chodesh Prayer,2025-06-04,Be'er Sheva Base,54
+58,Melaveh Malka Meal,2025-09-04,Kirya Tel Aviv,310
+59,Melaveh Malka Meal,2025-09-06,Sde Dov,366
+60,Torah Lesson,2025-08-26,Netzarim Base,217
+61,Special Prayer for Soldiers,2025-06-18,Michve Alon,25
+62,Megillah Reading,2025-08-24,Ramat David,109
+63,Evening of Songs and Remembrance,2025-09-04,Kirya Tel Aviv,24
+64,Evening of Songs and Remembrance,2025-08-23,Michve Alon,323
+65,Rosh Chodesh Prayer,2025-05-25,Tel HaShomer,273
+66,Halacha Seminar,2025-05-20,Kiryat Shmona,21
+67,Melaveh Malka Meal,2025-06-09,Tzrifin,255
+68,Lecture with Military Rabbi,2025-07-10,Kiryat Shmona,134
+69,Lecture with Military Rabbi,2025-08-22,Michve Alon,152
+70,Special Prayer for Soldiers,2025-08-10,Bahad 1,17
+71,Lecture with Military Rabbi,2025-07-06,Tzrifin,336
+72,Joint Study Session,2025-08-24,Haifa Port,373
+73,Torah Lesson,2025-06-23,Haifa Port,174
+74,Battalion Shabbaton,2025-06-07,Haifa Port,170
+75,Torah Lesson,2025-06-30,Tzeelim,36
+76,Rosh Chodesh Prayer,2025-06-25,Eilat Base,36
+77,Rosh Chodesh Prayer,2025-05-30,Ramat David,383
+78,Lecture on IDF and Judaism,2025-09-09,Glilot,203
+79,Evening of Songs and Remembrance,2025-05-17,Ramat David,272
+80,Halacha Seminar,2025-05-26,Ashdod Base,232
+81,Joint Selichot,2025-05-25,Glilot,339
+82,Lecture on IDF and Judaism,2025-07-17,Tzrifin,336
+83,Joint Selichot,2025-07-23,Julis Base,319
+84,Lecture with Military Rabbi,2025-05-23,Michve Alon,80
+85,Torah Lesson,2025-08-14,Ashdod Base,164
+86,Melaveh Malka Meal,2025-09-05,Be'er Sheva Base,371
+87,Lecture on IDF and Judaism,2025-08-16,Kiryat Shmona,334
+88,Joint Selichot,2025-08-31,Kirya Tel Aviv,379
+89,Melaveh Malka Meal,2025-08-20,Michve Alon,370
+90,Hanukkah Event,2025-09-04,Palmachim,394
+91,Lecture with Military Rabbi,2025-08-23,Tzeelim,153
+92,Melaveh Malka Meal,2025-06-12,Tzeelim,285
+93,Evening of Songs and Remembrance,2025-08-07,Michve Alon,166
+94,Halacha Seminar,2025-05-26,Sde Dov,216
+95,Lecture with Military Rabbi,2025-08-31,Bislach,313
+96,Special Prayer for Soldiers,2025-08-17,Michve Alon,60
+97,Halacha Seminar,2025-06-02,Ramat David,400
+98,Evening of Songs and Remembrance,2025-07-03,Mitzpe Ramon,388
+99,Lecture with Military Rabbi,2025-07-19,Glilot,163
+100,Joint Study Session,2025-08-16,Tzrifin,111
+101,Joint Study Session,2025-05-24,Sde Dov,303
+102,Rosh Chodesh Prayer,2025-06-21,Tel HaShomer,340
+103,Melaveh Malka Meal,2025-06-08,Bahad 1,112
+104,Lecture on IDF and Judaism,2025-08-02,Netzarim Base,1
+105,Hanukkah Event,2025-05-25,Negev Junction,253
+106,Hanukkah Event,2025-07-30,Negev Junction,61
+107,Special Prayer for Soldiers,2025-06-19,Tzrifin,191
+108,Halacha Seminar,2025-07-14,Negev Junction,214
+109,Torah Lesson,2025-09-03,Haifa Port,170
+110,Lecture on IDF and Judaism,2025-06-01,Michve Alon,301
+111,Megillah Reading,2025-08-16,Be'er Sheva Base,287
+112,Megillah Reading,2025-05-21,Tzeelim,45
+113,Evening of Songs and Remembrance,2025-08-12,Ramat David,272
+114,Special Prayer for Soldiers,2025-07-25,Tzeelim,276
+115,Melaveh Malka Meal,2025-08-25,Netzarim Base,101
+116,Hanukkah Event,2025-09-03,Sde Dov,226
+117,Special Prayer for Soldiers,2025-05-14,Mitzpe Ramon,44
+118,Joint Selichot,2025-07-05,Palmachim,124
+119,Lecture on IDF and Judaism,2025-08-16,Glilot,275
+120,Battalion Shabbaton,2025-08-20,Tzrifin,7
+121,Rosh Chodesh Prayer,2025-07-11,Michve Alon,323
+122,Megillah Reading,2025-08-25,Mitzpe Ramon,320
+123,Halacha Seminar,2025-05-30,Tel HaShomer,327
+124,Evening of Songs and Remembrance,2025-08-12,Ramat David,155
+125,Melaveh Malka Meal,2025-08-23,Tzrifin,62
+126,Evening of Songs and Remembrance,2025-06-02,Ramat David,155
+127,Battalion Shabbaton,2025-08-03,Tzeelim,43
+128,Melaveh Malka Meal,2025-08-20,Negev Junction,214
+129,Melaveh Malka Meal,2025-08-28,Tel HaShomer,330
+130,Lecture with Military Rabbi,2025-07-30,Bislach,48
+131,Lecture on IDF and Judaism,2025-09-05,Kiryat Shmona,207
+132,Hanukkah Event,2025-05-30,Tzeelim,367
+133,Melaveh Malka Meal,2025-08-29,Negev Junction,376
+134,Rosh Chodesh Prayer,2025-07-08,Haifa Port,59
+135,Lecture with Military Rabbi,2025-05-28,Michve Alon,329
+136,Rosh Chodesh Prayer,2025-07-07,Michve Alon,122
+137,Evening of Songs and Remembrance,2025-05-19,Michve Alon,327
+138,Joint Study Session,2025-07-07,Michve Alon,166
+139,Torah Lesson,2025-06-06,Mitzpe Ramon,320
+140,Evening of Songs and Remembrance,2025-05-31,Bahad 1,318
+141,Joint Study Session,2025-06-22,Kirya Tel Aviv,344
+142,Lecture with Military Rabbi,2025-08-15,Sde Dov,116
+143,Megillah Reading,2025-06-01,Bislach,268
+144,Megillah Reading,2025-07-25,Tel HaShomer,279
+145,Hanukkah Event,2025-06-29,Camp Dotan,212
+146,Melaveh Malka Meal,2025-06-13,Bahad 1,134
+147,Battalion Shabbaton,2025-06-23,Ramat David,400
+148,Hanukkah Event,2025-06-24,Mitzpe Ramon,265
+149,Joint Study Session,2025-05-27,Michve Alon,323
+150,Evening of Songs and Remembrance,2025-06-24,Mitzpe Ramon,86
+151,Halacha Seminar,2025-06-27,Negev Junction,170
+152,Lecture on IDF and Judaism,2025-07-01,Mitzpe Ramon,31
+153,Special Prayer for Soldiers,2025-08-13,Michve Alon,359
+154,Hanukkah Event,2025-06-30,Ramat David,59
+155,Battalion Shabbaton,2025-07-24,Negev Junction,137
+156,Hanukkah Event,2025-09-08,Mitzpe Ramon,98
+157,Special Prayer for Soldiers,2025-07-29,Kirya Tel Aviv,45
+158,Battalion Shabbaton,2025-08-28,Negev Junction,214
+159,Halacha Seminar,2025-08-16,Bahad 1,112
+160,Megillah Reading,2025-05-27,Mitzpe Ramon,393
+161,Joint Study Session,2025-06-30,Ramat David,188
+162,Special Prayer for Soldiers,2025-08-12,Be'er Sheva Base,156
+163,Lecture with Military Rabbi,2025-08-31,Michve Alon,329
+164,Megillah Reading,2025-08-31,Kirya Tel Aviv,82
+165,Evening of Songs and Remembrance,2025-07-29,Haifa Port,24
+166,Special Prayer for Soldiers,2025-08-10,Michve Alon,206
+167,Lecture on IDF and Judaism,2025-07-23,Palmachim,394
+168,Torah Lesson,2025-07-06,Negev Junction,220
+169,Special Prayer for Soldiers,2025-05-14,Tel HaShomer,367
+170,Megillah Reading,2025-06-24,Bahad 1,389
+171,Joint Selichot,2025-05-18,Kiryat Shmona,262
+172,Evening of Songs and Remembrance,2025-05-22,Kirya Tel Aviv,310
+173,Halacha Seminar,2025-05-19,Michve Alon,252
+174,Rosh Chodesh Prayer,2025-08-24,Kiryat Shmona,145
+175,Megillah Reading,2025-08-21,Be'er Sheva Base,302
+176,Hanukkah Event,2025-08-29,Michve Alon,370
+177,Battalion Shabbaton,2025-07-16,Palmachim,148
+178,Melaveh Malka Meal,2025-08-14,Negev Junction,170
+179,Melaveh Malka Meal,2025-06-27,Michve Alon,359
+180,Rosh Chodesh Prayer,2025-06-06,Negev Junction,140
+181,Halacha Seminar,2025-07-01,Tel HaShomer,281
+182,Lecture on IDF and Judaism,2025-08-27,Be'er Sheva Base,209
+183,Lecture on IDF and Judaism,2025-05-13,Kirya Tel Aviv,32
+184,Torah Lesson,2025-08-26,Negev Junction,140
+185,Rosh Chodesh Prayer,2025-08-15,Ramat David,291
+186,Rosh Chodesh Prayer,2025-08-11,Ashdod Base,355
+187,Melaveh Malka Meal,2025-07-10,Glilot,141
+188,Torah Lesson,2025-07-28,Michve Alon,206
+189,Joint Study Session,2025-08-16,Netzarim Base,308
+190,Hanukkah Event,2025-07-29,Mitzpe Ramon,31
+191,Halacha Seminar,2025-05-23,Michve Alon,374
+192,Joint Study Session,2025-05-24,Bahad 1,296
+193,Joint Study Session,2025-06-17,Tzeelim,276
+194,Joint Study Session,2025-05-13,Kirya Tel Aviv,142
+195,Lecture with Military Rabbi,2025-08-31,Ramat David,32
+196,Joint Selichot,2025-09-07,Be'er Sheva Base,332
+197,Melaveh Malka Meal,2025-05-13,Tzeelim,43
+198,Joint Selichot,2025-06-21,Ramat David,155
+199,Lecture on IDF and Judaism,2025-05-17,Eilat Base,227
+200,Lecture on IDF and Judaism,2025-07-15,Glilot,143
+201,Lecture with Military Rabbi,2025-07-25,Michve Alon,374
+202,Hanukkah Event,2025-08-10,Bislach,83
+203,Rosh Chodesh Prayer,2025-08-18,Bahad 1,347
+204,Lecture with Military Rabbi,2025-06-12,Tzeelim,285
+205,Evening of Songs and Remembrance,2025-07-22,Netzarim Base,377
+206,Lecture with Military Rabbi,2025-05-23,Sde Dov,78
+207,Lecture on IDF and Judaism,2025-08-25,Eilat Base,72
+208,Lecture with Military Rabbi,2025-09-01,Sde Dov,39
+209,Battalion Shabbaton,2025-08-15,Kirya Tel Aviv,380
+210,Evening of Songs and Remembrance,2025-07-08,Tzeelim,36
+211,Lecture on IDF and Judaism,2025-07-21,Tel HaShomer,327
+212,Hanukkah Event,2025-06-30,Palmachim,38
+213,Joint Selichot,2025-07-03,Bislach,282
+214,Megillah Reading,2025-08-17,Bislach,313
+215,Battalion Shabbaton,2025-08-09,Michve Alon,374
+216,Rosh Chodesh Prayer,2025-08-11,Netzarim Base,175
+217,Halacha Seminar,2025-07-29,Haifa Port,64
+218,Joint Selichot,2025-07-02,Ramat David,155
+219,Lecture on IDF and Judaism,2025-06-20,Michve Alon,374
+220,Lecture with Military Rabbi,2025-06-01,Glilot,339
+221,Megillah Reading,2025-05-16,Ramat David,272
+222,Torah Lesson,2025-05-28,Negev Junction,223
+223,Torah Lesson,2025-06-23,Be'er Sheva Base,156
+224,Evening of Songs and Remembrance,2025-05-13,Tzeelim,25
+225,Special Prayer for Soldiers,2025-07-25,Bislach,282
+226,Joint Selichot,2025-07-12,Kirya Tel Aviv,310
+227,Lecture with Military Rabbi,2025-07-22,Bislach,48
+228,Evening of Songs and Remembrance,2025-08-23,Sde Dov,226
+229,Rosh Chodesh Prayer,2025-07-16,Mitzpe Ramon,108
+230,Torah Lesson,2025-06-13,Kiryat Shmona,307
+231,Lecture on IDF and Judaism,2025-06-17,Palmachim,231
+232,Megillah Reading,2025-07-23,Bahad 1,356
+233,Joint Study Session,2025-06-03,Kiryat Shmona,145
+234,Joint Study Session,2025-06-23,Negev Junction,399
+235,Torah Lesson,2025-08-02,Michve Alon,252
+236,Joint Selichot,2025-08-30,Michve Alon,25
+237,Joint Study Session,2025-08-29,Ramat David,235
+238,Lecture on IDF and Judaism,2025-07-13,Kirya Tel Aviv,279
+239,Torah Lesson,2025-06-26,Ashdod Base,164
+240,Evening of Songs and Remembrance,2025-05-26,Ashdod Base,232
+241,Evening of Songs and Remembrance,2025-09-05,Ramat David,314
+242,Megillah Reading,2025-09-02,Glilot,388
+243,Megillah Reading,2025-06-06,Ramat David,286
+244,Megillah Reading,2025-06-04,Bislach,160
+245,Joint Selichot,2025-06-02,Kiryat Shmona,21
+246,Megillah Reading,2025-08-02,Michve Alon,166
+247,Lecture with Military Rabbi,2025-05-26,Sde Dov,110
+248,Hanukkah Event,2025-07-10,Ramat David,314
+249,Joint Selichot,2025-05-28,Glilot,11
+250,Lecture with Military Rabbi,2025-05-22,Palmachim,244
+251,Joint Selichot,2025-06-11,Kirya Tel Aviv,14
+252,Evening of Songs and Remembrance,2025-07-10,Negev Junction,220
+253,Joint Study Session,2025-08-19,Mitzpe Ramon,156
+254,Hanukkah Event,2025-07-25,Sde Dov,11
+255,Rosh Chodesh Prayer,2025-08-09,Sde Dov,366
+256,Lecture on IDF and Judaism,2025-05-20,Ashdod Base,326
+257,Megillah Reading,2025-07-06,Haifa Port,129
+258,Battalion Shabbaton,2025-08-26,Bahad 1,84
+259,Lecture on IDF and Judaism,2025-07-16,Negev Junction,253
+260,Special Prayer for Soldiers,2025-06-18,Kiryat Shmona,21
+261,Hanukkah Event,2025-06-30,Tzrifin,62
+262,Lecture with Military Rabbi,2025-09-01,Kiryat Shmona,307
+263,Evening of Songs and Remembrance,2025-08-29,Be'er Sheva Base,110
+264,Megillah Reading,2025-08-14,Tzeelim,153
+265,Halacha Seminar,2025-06-21,Netzarim Base,143
+266,Lecture with Military Rabbi,2025-06-07,Sde Dov,11
+267,Battalion Shabbaton,2025-08-16,Kirya Tel Aviv,83
+268,Halacha Seminar,2025-06-08,Haifa Port,147
+269,Joint Study Session,2025-07-16,Palmachim,115
+270,Hanukkah Event,2025-09-02,Haifa Port,391
+271,Special Prayer for Soldiers,2025-05-23,Haifa Port,147
+272,Halacha Seminar,2025-08-30,Netzarim Base,99
+273,Joint Study Session,2025-07-19,Kiryat Shmona,21
+274,Lecture with Military Rabbi,2025-06-10,Palmachim,22
+275,Rosh Chodesh Prayer,2025-08-08,Palmachim,148
+276,Battalion Shabbaton,2025-07-13,Tzeelim,121
+277,Torah Lesson,2025-06-18,Negev Junction,137
+278,Hanukkah Event,2025-06-19,Bislach,282
+279,Hanukkah Event,2025-06-03,Tzeelim,49
+280,Halacha Seminar,2025-06-20,Mitzpe Ramon,108
+281,Evening of Songs and Remembrance,2025-05-25,Julis Base,180
+282,Melaveh Malka Meal,2025-08-25,Sde Dov,39
+283,Lecture with Military Rabbi,2025-06-03,Glilot,163
+284,Melaveh Malka Meal,2025-08-07,Kirya Tel Aviv,19
+285,Joint Study Session,2025-05-24,Sde Dov,366
+286,Megillah Reading,2025-08-26,Ashdod Base,237
+287,Special Prayer for Soldiers,2025-08-02,Palmachim,220
+288,Torah Lesson,2025-07-03,Michve Alon,122
+289,Lecture with Military Rabbi,2025-07-06,Bahad 1,370
+290,Hanukkah Event,2025-05-19,Haifa Port,199
+291,Battalion Shabbaton,2025-07-28,Bislach,268
+292,Lecture with Military Rabbi,2025-06-22,Negev Junction,253
+293,Lecture with Military Rabbi,2025-06-17,Bahad 1,352
+294,Megillah Reading,2025-07-19,Kirya Tel Aviv,307
+295,Rosh Chodesh Prayer,2025-06-04,Eilat Base,87
+296,Rosh Chodesh Prayer,2025-05-21,Negev Junction,103
+297,Hanukkah Event,2025-07-23,Netzarim Base,259
+298,Battalion Shabbaton,2025-07-26,Kirya Tel Aviv,14
+299,Joint Selichot,2025-07-20,Tzeelim,49
+300,Joint Study Session,2025-09-05,Netzarim Base,377
+301,Rosh Chodesh Prayer,2025-08-04,Haifa Port,147
+302,Rosh Chodesh Prayer,2025-07-22,Negev Junction,137
+303,Lecture on IDF and Judaism,2025-06-28,Ashdod Base,164
+304,Melaveh Malka Meal,2025-08-21,Tzrifin,62
+305,Lecture with Military Rabbi,2025-08-04,Ramat David,57
+306,Lecture on IDF and Judaism,2025-07-11,Negev Junction,137
+307,Melaveh Malka Meal,2025-07-29,Ramat David,400
+308,Lecture with Military Rabbi,2025-07-15,Haifa Port,208
+309,Hanukkah Event,2025-07-18,Kirya Tel Aviv,149
+310,Rosh Chodesh Prayer,2025-06-19,Netzarim Base,138
+311,Battalion Shabbaton,2025-08-02,Sde Dov,39
+312,Battalion Shabbaton,2025-05-25,Tzeelim,308
+313,Special Prayer for Soldiers,2025-08-26,Negev Junction,369
+314,Torah Lesson,2025-06-11,Tzeelim,176
+315,Halacha Seminar,2025-08-22,Be'er Sheva Base,302
+316,Evening of Songs and Remembrance,2025-09-07,Palmachim,38
+317,Megillah Reading,2025-07-13,Sde Dov,2
+318,Joint Selichot,2025-05-29,Bahad 1,318
+319,Evening of Songs and Remembrance,2025-07-02,Bislach,313
+320,Evening of Songs and Remembrance,2025-05-14,Negev Junction,353
+321,Torah Lesson,2025-08-13,Bahad 1,130
+322,Joint Selichot,2025-06-21,Bahad 1,112
+323,Rosh Chodesh Prayer,2025-08-08,Negev Junction,103
+324,Hanukkah Event,2025-07-30,Ashdod Base,232
+325,Evening of Songs and Remembrance,2025-06-26,Kiryat Shmona,321
+326,Joint Study Session,2025-05-26,Haifa Port,174
+327,Lecture with Military Rabbi,2025-05-19,Tzrifin,255
+328,Lecture on IDF and Judaism,2025-08-18,Tzeelim,25
+329,Rosh Chodesh Prayer,2025-09-05,Haifa Port,65
+330,Battalion Shabbaton,2025-05-31,Mitzpe Ramon,381
+331,Joint Study Session,2025-08-19,Camp Dotan,89
+332,Megillah Reading,2025-07-16,Mitzpe Ramon,381
+333,Lecture on IDF and Judaism,2025-07-15,Sde Dov,226
+334,Evening of Songs and Remembrance,2025-05-20,Kirya Tel Aviv,149
+335,Joint Study Session,2025-06-05,Negev Junction,311
+336,Hanukkah Event,2025-05-19,Mitzpe Ramon,52
+337,Hanukkah Event,2025-07-19,Sde Dov,182
+338,Lecture with Military Rabbi,2025-06-10,Tel HaShomer,378
+339,Joint Study Session,2025-05-17,Michve Alon,301
+340,Megillah Reading,2025-05-18,Ramat David,8
+341,Rosh Chodesh Prayer,2025-08-12,Tel HaShomer,340
+342,Lecture with Military Rabbi,2025-08-18,Michve Alon,374
+343,Lecture on IDF and Judaism,2025-06-26,Eilat Base,87
+344,Melaveh Malka Meal,2025-06-01,Sde Dov,116
+345,Lecture with Military Rabbi,2025-05-18,Ramat David,109
+346,Evening of Songs and Remembrance,2025-06-05,Mitzpe Ramon,392
+347,Joint Study Session,2025-07-18,Negev Junction,10
+348,Lecture on IDF and Judaism,2025-06-30,Ashdod Base,379
+349,Lecture with Military Rabbi,2025-05-13,Negev Junction,253
+350,Special Prayer for Soldiers,2025-09-06,Eilat Base,148
+351,Special Prayer for Soldiers,2025-07-20,Michve Alon,206
+352,Lecture with Military Rabbi,2025-07-12,Bislach,282
+353,Melaveh Malka Meal,2025-07-20,Glilot,388
+354,Evening of Songs and Remembrance,2025-07-05,Ashdod Base,232
+355,Battalion Shabbaton,2025-06-09,Be'er Sheva Base,110
+356,Lecture with Military Rabbi,2025-08-22,Sde Dov,78
+357,Lecture with Military Rabbi,2025-07-09,Tzrifin,7
+358,Lecture on IDF and Judaism,2025-09-06,Tzrifin,264
+359,Joint Study Session,2025-08-14,Tzeelim,290
+360,Torah Lesson,2025-08-20,Ashdod Base,59
+361,Torah Lesson,2025-06-13,Camp Dotan,212
+362,Megillah Reading,2025-08-17,Ashdod Base,232
+363,Evening of Songs and Remembrance,2025-07-14,Mitzpe Ramon,242
+364,Megillah Reading,2025-08-24,Netzarim Base,40
+365,Evening of Songs and Remembrance,2025-09-07,Michve Alon,370
+366,Evening of Songs and Remembrance,2025-07-26,Kirya Tel Aviv,380
+367,Melaveh Malka Meal,2025-06-02,Negev Junction,353
+368,Rosh Chodesh Prayer,2025-05-29,Mitzpe Ramon,108
+369,Hanukkah Event,2025-07-10,Kiryat Shmona,262
+370,Torah Lesson,2025-08-22,Tel HaShomer,367
+371,Rosh Chodesh Prayer,2025-08-01,Negev Junction,19
+372,Megillah Reading,2025-07-06,Tzeelim,121
+373,Lecture on IDF and Judaism,2025-09-02,Palmachim,231
+374,Lecture with Military Rabbi,2025-06-25,Bislach,383
+375,Melaveh Malka Meal,2025-06-07,Ashdod Base,392
+376,Joint Selichot,2025-06-21,Netzarim Base,344
+377,Hanukkah Event,2025-09-07,Michve Alon,166
+378,Rosh Chodesh Prayer,2025-09-03,Netzarim Base,127
+379,Melaveh Malka Meal,2025-07-20,Palmachim,115
+380,Megillah Reading,2025-05-20,Glilot,141
+381,Lecture with Military Rabbi,2025-06-15,Michve Alon,166
+382,Lecture on IDF and Judaism,2025-08-14,Palmachim,38
+383,Battalion Shabbaton,2025-05-29,Mitzpe Ramon,386
+384,Torah Lesson,2025-06-17,Ashdod Base,164
+385,Battalion Shabbaton,2025-08-07,Sde Dov,11
+386,Megillah Reading,2025-08-09,Camp Dotan,89
+387,Torah Lesson,2025-06-08,Sde Dov,303
+388,Battalion Shabbaton,2025-08-15,Haifa Port,174
+389,Lecture on IDF and Judaism,2025-07-25,Be'er Sheva Base,156
+390,Halacha Seminar,2025-07-29,Michve Alon,329
+391,Battalion Shabbaton,2025-05-21,Tzeelim,182
+392,Special Prayer for Soldiers,2025-08-27,Mitzpe Ramon,303
+393,Joint Selichot,2025-09-08,Bahad 1,50
+394,Special Prayer for Soldiers,2025-07-17,Kirya Tel Aviv,19
+395,Lecture with Military Rabbi,2025-08-05,Tzeelim,285
+396,Joint Study Session,2025-08-19,Kirya Tel Aviv,14
+397,Hanukkah Event,2025-07-02,Mitzpe Ramon,320
+398,Torah Lesson,2025-07-06,Be'er Sheva Base,209
+399,Lecture with Military Rabbi,2025-08-19,Michve Alon,370
+400,Joint Study Session,2025-09-01,Bislach,23
