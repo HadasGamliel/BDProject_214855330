@@ -1,0 +1,401 @@
+﻿EquipmentID,EquipmentName,Description
+1,Menorah,Description of Menorah
+2,Kiddush Cup,Description of Kiddush Cup
+3,Menorah,Description of Menorah
+4,Kiddush Cup,Description of Kiddush Cup
+5,Kiddush Cup,Description of Kiddush Cup
+6,Shabbat Candlesticks,Description of Shabbat Candlesticks
+7,Shofar,Description of Shofar
+8,Tallit,Description of Tallit
+9,Sefer Torah,Description of Sefer Torah
+10,Shabbat Candlesticks,Description of Shabbat Candlesticks
+11,Tehillim,Description of Tehillim
+12,Menorah,Description of Menorah
+13,Shabbat Candlesticks,Description of Shabbat Candlesticks
+14,Shofar,Description of Shofar
+15,Shabbat Candlesticks,Description of Shabbat Candlesticks
+16,Tallit,Description of Tallit
+17,Shabbat Candlesticks,Description of Shabbat Candlesticks
+18,Menorah,Description of Menorah
+19,Challah Cover,Description of Challah Cover
+20,Shabbat Candlesticks,Description of Shabbat Candlesticks
+21,Shofar,Description of Shofar
+22,Kiddush Cup,Description of Kiddush Cup
+23,Tehillim,Description of Tehillim
+24,Challah Cover,Description of Challah Cover
+25,Challah Cover,Description of Challah Cover
+26,Sefer Torah,Description of Sefer Torah
+27,Kiddush Cup,Description of Kiddush Cup
+28,Tefillin,Description of Tefillin
+29,Menorah,Description of Menorah
+30,Challah Cover,Description of Challah Cover
+31,Tefillin,Description of Tefillin
+32,Tefillin,Description of Tefillin
+33,Tallit,Description of Tallit
+34,Challah Cover,Description of Challah Cover
+35,Mezuzah,Description of Mezuzah
+36,Menorah,Description of Menorah
+37,Sefer Torah,Description of Sefer Torah
+38,Sefer Torah,Description of Sefer Torah
+39,Mezuzah,Description of Mezuzah
+40,Tefillin,Description of Tefillin
+41,Shabbat Candlesticks,Description of Shabbat Candlesticks
+42,Mezuzah,Description of Mezuzah
+43,Tallit,Description of Tallit
+44,Sefer Torah,Description of Sefer Torah
+45,Tallit,Description of Tallit
+46,Mezuzah,Description of Mezuzah
+47,Challah Cover,Description of Challah Cover
+48,Kiddush Cup,Description of Kiddush Cup
+49,Mezuzah,Description of Mezuzah
+50,Kiddush Cup,Description of Kiddush Cup
+51,Kiddush Cup,Description of Kiddush Cup
+52,Tehillim,Description of Tehillim
+53,Tehillim,Description of Tehillim
+54,Tefillin,Description of Tefillin
+55,Menorah,Description of Menorah
+56,Mezuzah,Description of Mezuzah
+57,Challah Cover,Description of Challah Cover
+58,Menorah,Description of Menorah
+59,Menorah,Description of Menorah
+60,Shofar,Description of Shofar
+61,Menorah,Description of Menorah
+62,Kiddush Cup,Description of Kiddush Cup
+63,Shofar,Description of Shofar
+64,Kiddush Cup,Description of Kiddush Cup
+65,Tehillim,Description of Tehillim
+66,Tehillim,Description of Tehillim
+67,Tefillin,Description of Tefillin
+68,Shofar,Description of Shofar
+69,Mezuzah,Description of Mezuzah
+70,Tefillin,Description of Tefillin
+71,Kiddush Cup,Description of Kiddush Cup
+72,Tallit,Description of Tallit
+73,Tehillim,Description of Tehillim
+74,Shofar,Description of Shofar
+75,Shabbat Candlesticks,Description of Shabbat Candlesticks
+76,Shabbat Candlesticks,Description of Shabbat Candlesticks
+77,Shabbat Candlesticks,Description of Shabbat Candlesticks
+78,Kiddush Cup,Description of Kiddush Cup
+79,Tehillim,Description of Tehillim
+80,Sefer Torah,Description of Sefer Torah
+81,Menorah,Description of Menorah
+82,Tallit,Description of Tallit
+83,Sefer Torah,Description of Sefer Torah
+84,Shabbat Candlesticks,Description of Shabbat Candlesticks
+85,Kiddush Cup,Description of Kiddush Cup
+86,Mezuzah,Description of Mezuzah
+87,Tefillin,Description of Tefillin
+88,Tallit,Description of Tallit
+89,Challah Cover,Description of Challah Cover
+90,Tallit,Description of Tallit
+91,Tallit,Description of Tallit
+92,Shofar,Description of Shofar
+93,Mezuzah,Description of Mezuzah
+94,Sefer Torah,Description of Sefer Torah
+95,Challah Cover,Description of Challah Cover
+96,Menorah,Description of Menorah
+97,Challah Cover,Description of Challah Cover
+98,Tefillin,Description of Tefillin
+99,Kiddush Cup,Description of Kiddush Cup
+100,Tallit,Description of Tallit
+101,Menorah,Description of Menorah
+102,Tallit,Description of Tallit
+103,Tefillin,Description of Tefillin
+104,Challah Cover,Description of Challah Cover
+105,Sefer Torah,Description of Sefer Torah
+106,Challah Cover,Description of Challah Cover
+107,Shabbat Candlesticks,Description of Shabbat Candlesticks
+108,Mezuzah,Description of Mezuzah
+109,Menorah,Description of Menorah
+110,Tehillim,Description of Tehillim
+111,Menorah,Description of Menorah
+112,Menorah,Description of Menorah
+113,Kiddush Cup,Description of Kiddush Cup
+114,Shabbat Candlesticks,Description of Shabbat Candlesticks
+115,Tallit,Description of Tallit
+116,Tallit,Description of Tallit
+117,Sefer Torah,Description of Sefer Torah
+118,Sefer Torah,Description of Sefer Torah
+119,Shofar,Description of Shofar
+120,Sefer Torah,Description of Sefer Torah
+121,Mezuzah,Description of Mezuzah
+122,Kiddush Cup,Description of Kiddush Cup
+123,Shabbat Candlesticks,Description of Shabbat Candlesticks
+124,Tallit,Description of Tallit
+125,Shabbat Candlesticks,Description of Shabbat Candlesticks
+126,Kiddush Cup,Description of Kiddush Cup
+127,Mezuzah,Description of Mezuzah
+128,Mezuzah,Description of Mezuzah
+129,Tefillin,Description of Tefillin
+130,Challah Cover,Description of Challah Cover
+131,Kiddush Cup,Description of Kiddush Cup
+132,Shofar,Description of Shofar
+133,Menorah,Description of Menorah
+134,Shabbat Candlesticks,Description of Shabbat Candlesticks
+135,Sefer Torah,Description of Sefer Torah
+136,Tehillim,Description of Tehillim
+137,Tehillim,Description of Tehillim
+138,Shabbat Candlesticks,Description of Shabbat Candlesticks
+139,Kiddush Cup,Description of Kiddush Cup
+140,Kiddush Cup,Description of Kiddush Cup
+141,Sefer Torah,Description of Sefer Torah
+142,Tefillin,Description of Tefillin
+143,Tefillin,Description of Tefillin
+144,Shabbat Candlesticks,Description of Shabbat Candlesticks
+145,Tehillim,Description of Tehillim
+146,Tehillim,Description of Tehillim
+147,Tehillim,Description of Tehillim
+148,Kiddush Cup,Description of Kiddush Cup
+149,Sefer Torah,Description of Sefer Torah
+150,Tallit,Description of Tallit
+151,Challah Cover,Description of Challah Cover
+152,Tefillin,Description of Tefillin
+153,Tehillim,Description of Tehillim
+154,Kiddush Cup,Description of Kiddush Cup
+155,Tehillim,Description of Tehillim
+156,Tehillim,Description of Tehillim
+157,Shabbat Candlesticks,Description of Shabbat Candlesticks
+158,Shabbat Candlesticks,Description of Shabbat Candlesticks
+159,Sefer Torah,Description of Sefer Torah
+160,Menorah,Description of Menorah
+161,Shofar,Description of Shofar
+162,Menorah,Description of Menorah
+163,Tehillim,Description of Tehillim
+164,Sefer Torah,Description of Sefer Torah
+165,Kiddush Cup,Description of Kiddush Cup
+166,Tefillin,Description of Tefillin
+167,Tallit,Description of Tallit
+168,Tefillin,Description of Tefillin
+169,Tehillim,Description of Tehillim
+170,Tefillin,Description of Tefillin
+171,Tefillin,Description of Tefillin
+172,Menorah,Description of Menorah
+173,Tallit,Description of Tallit
+174,Tehillim,Description of Tehillim
+175,Mezuzah,Description of Mezuzah
+176,Shabbat Candlesticks,Description of Shabbat Candlesticks
+177,Shofar,Description of Shofar
+178,Tehillim,Description of Tehillim
+179,Tallit,Description of Tallit
+180,Tehillim,Description of Tehillim
+181,Menorah,Description of Menorah
+182,Tehillim,Description of Tehillim
+183,Tehillim,Description of Tehillim
+184,Menorah,Description of Menorah
+185,Mezuzah,Description of Mezuzah
+186,Tefillin,Description of Tefillin
+187,Shabbat Candlesticks,Description of Shabbat Candlesticks
+188,Sefer Torah,Description of Sefer Torah
+189,Kiddush Cup,Description of Kiddush Cup
+190,Kiddush Cup,Description of Kiddush Cup
+191,Tallit,Description of Tallit
+192,Tefillin,Description of Tefillin
+193,Tallit,Description of Tallit
+194,Kiddush Cup,Description of Kiddush Cup
+195,Tallit,Description of Tallit
+196,Sefer Torah,Description of Sefer Torah
+197,Tefillin,Description of Tefillin
+198,Kiddush Cup,Description of Kiddush Cup
+199,Tehillim,Description of Tehillim
+200,Shabbat Candlesticks,Description of Shabbat Candlesticks
+201,Challah Cover,Description of Challah Cover
+202,Kiddush Cup,Description of Kiddush Cup
+203,Sefer Torah,Description of Sefer Torah
+204,Sefer Torah,Description of Sefer Torah
+205,Tehillim,Description of Tehillim
+206,Sefer Torah,Description of Sefer Torah
+207,Sefer Torah,Description of Sefer Torah
+208,Tehillim,Description of Tehillim
+209,Challah Cover,Description of Challah Cover
+210,Challah Cover,Description of Challah Cover
+211,Challah Cover,Description of Challah Cover
+212,Mezuzah,Description of Mezuzah
+213,Shabbat Candlesticks,Description of Shabbat Candlesticks
+214,Challah Cover,Description of Challah Cover
+215,Sefer Torah,Description of Sefer Torah
+216,Sefer Torah,Description of Sefer Torah
+217,Shabbat Candlesticks,Description of Shabbat Candlesticks
+218,Mezuzah,Description of Mezuzah
+219,Kiddush Cup,Description of Kiddush Cup
+220,Shofar,Description of Shofar
+221,Tallit,Description of Tallit
+222,Menorah,Description of Menorah
+223,Tehillim,Description of Tehillim
+224,Kiddush Cup,Description of Kiddush Cup
+225,Shabbat Candlesticks,Description of Shabbat Candlesticks
+226,Tehillim,Description of Tehillim
+227,Mezuzah,Description of Mezuzah
+228,Sefer Torah,Description of Sefer Torah
+229,Mezuzah,Description of Mezuzah
+230,Shofar,Description of Shofar
+231,Sefer Torah,Description of Sefer Torah
+232,Tallit,Description of Tallit
+233,Tallit,Description of Tallit
+234,Sefer Torah,Description of Sefer Torah
+235,Tefillin,Description of Tefillin
+236,Menorah,Description of Menorah
+237,Kiddush Cup,Description of Kiddush Cup
+238,Kiddush Cup,Description of Kiddush Cup
+239,Sefer Torah,Description of Sefer Torah
+240,Shabbat Candlesticks,Description of Shabbat Candlesticks
+241,Shofar,Description of Shofar
+242,Tehillim,Description of Tehillim
+243,Shofar,Description of Shofar
+244,Tallit,Description of Tallit
+245,Challah Cover,Description of Challah Cover
+246,Tallit,Description of Tallit
+247,Shofar,Description of Shofar
+248,Shofar,Description of Shofar
+249,Mezuzah,Description of Mezuzah
+250,Challah Cover,Description of Challah Cover
+251,Shofar,Description of Shofar
+252,Kiddush Cup,Description of Kiddush Cup
+253,Shabbat Candlesticks,Description of Shabbat Candlesticks
+254,Menorah,Description of Menorah
+255,Tefillin,Description of Tefillin
+256,Shofar,Description of Shofar
+257,Mezuzah,Description of Mezuzah
+258,Kiddush Cup,Description of Kiddush Cup
+259,Tefillin,Description of Tefillin
+260,Tehillim,Description of Tehillim
+261,Shofar,Description of Shofar
+262,Shofar,Description of Shofar
+263,Tehillim,Description of Tehillim
+264,Tallit,Description of Tallit
+265,Challah Cover,Description of Challah Cover
+266,Shabbat Candlesticks,Description of Shabbat Candlesticks
+267,Menorah,Description of Menorah
+268,Tehillim,Description of Tehillim
+269,Mezuzah,Description of Mezuzah
+270,Tehillim,Description of Tehillim
+271,Mezuzah,Description of Mezuzah
+272,Shofar,Description of Shofar
+273,Sefer Torah,Description of Sefer Torah
+274,Sefer Torah,Description of Sefer Torah
+275,Tehillim,Description of Tehillim
+276,Challah Cover,Description of Challah Cover
+277,Tefillin,Description of Tefillin
+278,Mezuzah,Description of Mezuzah
+279,Shofar,Description of Shofar
+280,Challah Cover,Description of Challah Cover
+281,Shofar,Description of Shofar
+282,Sefer Torah,Description of Sefer Torah
+283,Tallit,Description of Tallit
+284,Tallit,Description of Tallit
+285,Mezuzah,Description of Mezuzah
+286,Mezuzah,Description of Mezuzah
+287,Sefer Torah,Description of Sefer Torah
+288,Sefer Torah,Description of Sefer Torah
+289,Mezuzah,Description of Mezuzah
+290,Challah Cover,Description of Challah Cover
+291,Tallit,Description of Tallit
+292,Sefer Torah,Description of Sefer Torah
+293,Tallit,Description of Tallit
+294,Challah Cover,Description of Challah Cover
+295,Sefer Torah,Description of Sefer Torah
+296,Challah Cover,Description of Challah Cover
+297,Mezuzah,Description of Mezuzah
+298,Tallit,Description of Tallit
+299,Mezuzah,Description of Mezuzah
+300,Tefillin,Description of Tefillin
+301,Challah Cover,Description of Challah Cover
+302,Tehillim,Description of Tehillim
+303,Tehillim,Description of Tehillim
+304,Tehillim,Description of Tehillim
+305,Sefer Torah,Description of Sefer Torah
+306,Challah Cover,Description of Challah Cover
+307,Tefillin,Description of Tefillin
+308,Shabbat Candlesticks,Description of Shabbat Candlesticks
+309,Shabbat Candlesticks,Description of Shabbat Candlesticks
+310,Mezuzah,Description of Mezuzah
+311,Shofar,Description of Shofar
+312,Kiddush Cup,Description of Kiddush Cup
+313,Shabbat Candlesticks,Description of Shabbat Candlesticks
+314,Menorah,Description of Menorah
+315,Tefillin,Description of Tefillin
+316,Shabbat Candlesticks,Description of Shabbat Candlesticks
+317,Shofar,Description of Shofar
+318,Shofar,Description of Shofar
+319,Challah Cover,Description of Challah Cover
+320,Shabbat Candlesticks,Description of Shabbat Candlesticks
+321,Menorah,Description of Menorah
+322,Kiddush Cup,Description of Kiddush Cup
+323,Shabbat Candlesticks,Description of Shabbat Candlesticks
+324,Challah Cover,Description of Challah Cover
+325,Mezuzah,Description of Mezuzah
+326,Tehillim,Description of Tehillim
+327,Shofar,Description of Shofar
+328,Tallit,Description of Tallit
+329,Shabbat Candlesticks,Description of Shabbat Candlesticks
+330,Tehillim,Description of Tehillim
+331,Sefer Torah,Description of Sefer Torah
+332,Tallit,Description of Tallit
+333,Kiddush Cup,Description of Kiddush Cup
+334,Mezuzah,Description of Mezuzah
+335,Sefer Torah,Description of Sefer Torah
+336,Tehillim,Description of Tehillim
+337,Tefillin,Description of Tefillin
+338,Challah Cover,Description of Challah Cover
+339,Tefillin,Description of Tefillin
+340,Challah Cover,Description of Challah Cover
+341,Tallit,Description of Tallit
+342,Mezuzah,Description of Mezuzah
+343,Shofar,Description of Shofar
+344,Tallit,Description of Tallit
+345,Tefillin,Description of Tefillin
+346,Shofar,Description of Shofar
+347,Tallit,Description of Tallit
+348,Kiddush Cup,Description of Kiddush Cup
+349,Challah Cover,Description of Challah Cover
+350,Shabbat Candlesticks,Description of Shabbat Candlesticks
+351,Tallit,Description of Tallit
+352,Tefillin,Description of Tefillin
+353,Tefillin,Description of Tefillin
+354,Sefer Torah,Description of Sefer Torah
+355,Tehillim,Description of Tehillim
+356,Menorah,Description of Menorah
+357,Challah Cover,Description of Challah Cover
+358,Shabbat Candlesticks,Description of Shabbat Candlesticks
+359,Challah Cover,Description of Challah Cover
+360,Shofar,Description of Shofar
+361,Tehillim,Description of Tehillim
+362,Menorah,Description of Menorah
+363,Sefer Torah,Description of Sefer Torah
+364,Mezuzah,Description of Mezuzah
+365,Challah Cover,Description of Challah Cover
+366,Tehillim,Description of Tehillim
+367,Sefer Torah,Description of Sefer Torah
+368,Challah Cover,Description of Challah Cover
+369,Tallit,Description of Tallit
+370,Sefer Torah,Description of Sefer Torah
+371,Tehillim,Description of Tehillim
+372,Challah Cover,Description of Challah Cover
+373,Tallit,Description of Tallit
+374,Menorah,Description of Menorah
+375,Shofar,Description of Shofar
+376,Shabbat Candlesticks,Description of Shabbat Candlesticks
+377,Challah Cover,Description of Challah Cover
+378,Shabbat Candlesticks,Description of Shabbat Candlesticks
+379,Shabbat Candlesticks,Description of Shabbat Candlesticks
+380,Shofar,Description of Shofar
+381,Sefer Torah,Description of Sefer Torah
+382,Tallit,Description of Tallit
+383,Tefillin,Description of Tefillin
+384,Tefillin,Description of Tefillin
+385,Kiddush Cup,Description of Kiddush Cup
+386,Sefer Torah,Description of Sefer Torah
+387,Tefillin,Description of Tefillin
+388,Shabbat Candlesticks,Description of Shabbat Candlesticks
+389,Kiddush Cup,Description of Kiddush Cup
+390,Shofar,Description of Shofar
+391,Shabbat Candlesticks,Description of Shabbat Candlesticks
+392,Challah Cover,Description of Challah Cover
+393,Mezuzah,Description of Mezuzah
+394,Shofar,Description of Shofar
+395,Menorah,Description of Menorah
+396,Shofar,Description of Shofar
+397,Kiddush Cup,Description of Kiddush Cup
+398,Shofar,Description of Shofar
+399,Tallit,Description of Tallit
+400,Shofar,Description of Shofar

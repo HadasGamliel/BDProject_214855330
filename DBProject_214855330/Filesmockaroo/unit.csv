@@ -1,0 +1,401 @@
+unitid,unitname,baselocation
+1,Intelligence Corps,Haifa Port
+2,Logistics Corps,Netzarim Base
+3,Air Force,Negev Junction
+4,Golani Brigade,Eilat Base
+5,C4I Corps,Bislach
+6,Air Force,Bislach
+7,Givati Brigade,Camp Dotan
+8,Air Force,Glilot
+9,Kfir Brigade,Tel HaShomer
+10,Border Defense Corps,Glilot
+11,Givati Brigade,Michve Alon
+12,Medical Corps,Glilot
+13,Medical Corps,Mitzpe Ramon
+14,Givati Brigade,Negev Junction
+15,Medical Corps,Be'er Sheva Base
+16,Border Defense Corps,Mitzpe Ramon
+17,Medical Corps,Be'er Sheva Base
+18,Border Defense Corps,Mitzpe Ramon
+19,Military Police,Kirya Tel Aviv
+20,Education and Youth Corps,Haifa Port
+21,Navy,Ramat David
+22,Navy,Bislach
+23,Border Defense Corps,Glilot
+24,Border Defense Corps,Kiryat Shmona
+25,Navy,Ramat David
+26,Armored Corps,Tzeelim
+27,Home Front Command,Negev Junction
+28,Armored Corps,Haifa Port
+29,Paratroopers Brigade,Mitzpe Ramon
+30,Paratroopers Brigade,Tel HaShomer
+31,Paratroopers Brigade,Negev Junction
+32,Medical Corps,Be'er Sheva Base
+33,Logistics Corps,Kiryat Shmona
+34,Border Defense Corps,Ramat David
+35,Medical Corps,Netzarim Base
+36,Givati Brigade,Be'er Sheva Base
+37,Intelligence Corps,Tzeelim
+38,Navy,Ashdod Base
+39,Military Rabbinate,Mitzpe Ramon
+40,Home Front Command,Be'er Sheva Base
+41,Air Force,Kiryat Shmona
+42,Logistics Corps,Haifa Port
+43,Nahal Brigade,Glilot
+44,Military Rabbinate,Palmachim
+45,Navy,Kiryat Shmona
+46,Logistics Corps,Glilot
+47,Golani Brigade,Negev Junction
+48,General Staff,Bahad 1
+49,C4I Corps,Tzrifin
+50,Givati Brigade,Bislach
+51,Armored Corps,Camp Dotan
+52,General Staff,Bahad 1
+53,Armored Corps,Haifa Port
+54,Armored Corps,Ramat David
+55,Military Rabbinate,Mitzpe Ramon
+56,Nahal Brigade,Mitzpe Ramon
+57,C4I Corps,Palmachim
+58,Golani Brigade,Be'er Sheva Base
+59,Navy,Mitzpe Ramon
+60,Logistics Corps,Tzeelim
+61,Logistics Corps,Haifa Port
+62,Medical Corps,Bislach
+63,Air Force,Julis Base
+64,Armored Corps,Michve Alon
+65,Education and Youth Corps,Eilat Base
+66,Armored Corps,Be'er Sheva Base
+67,Military Rabbinate,Kirya Tel Aviv
+68,Navy,Ashdod Base
+69,Paratroopers Brigade,Michve Alon
+70,Navy,Kiryat Shmona
+71,C4I Corps,Negev Junction
+72,Kfir Brigade,Netzarim Base
+73,Armored Corps,Kirya Tel Aviv
+74,Paratroopers Brigade,Netzarim Base
+75,Medical Corps,Bislach
+76,Paratroopers Brigade,Ramat David
+77,Education and Youth Corps,Netzarim Base
+78,Golani Brigade,Palmachim
+79,Givati Brigade,Tzeelim
+80,Givati Brigade,Mitzpe Ramon
+81,Givati Brigade,Tzrifin
+82,Intelligence Corps,Camp Dotan
+83,General Staff,Mitzpe Ramon
+84,Navy,Ramat David
+85,Intelligence Corps,Julis Base
+86,C4I Corps,Michve Alon
+87,Military Rabbinate,Haifa Port
+88,Military Rabbinate,Ashdod Base
+89,General Staff,Camp Dotan
+90,C4I Corps,Bahad 1
+91,Paratroopers Brigade,Netzarim Base
+92,Navy,Tzeelim
+93,Golani Brigade,Kirya Tel Aviv
+94,Logistics Corps,Palmachim
+95,General Staff,Negev Junction
+96,Air Force,Tzeelim
+97,Combat Engineering Corps,Tzeelim
+98,C4I Corps,Sde Dov
+99,Nahal Brigade,Netzarim Base
+100,Armored Corps,Glilot
+101,Military Rabbinate,Kiryat Shmona
+102,Intelligence Corps,Negev Junction
+103,Military Police,Kirya Tel Aviv
+104,Medical Corps,Sde Dov
+105,Medical Corps,Michve Alon
+106,Home Front Command,Negev Junction
+107,Kfir Brigade,Bahad 1
+108,Nahal Brigade,Ramat David
+109,Home Front Command,Glilot
+110,Border Defense Corps,Julis Base
+111,Paratroopers Brigade,Haifa Port
+112,Education and Youth Corps,Kirya Tel Aviv
+113,Paratroopers Brigade,Tzrifin
+114,Intelligence Corps,Ashdod Base
+115,Home Front Command,Michve Alon
+116,Givati Brigade,Haifa Port
+117,Armored Corps,Bahad 1
+118,Medical Corps,Julis Base
+119,Military Police,Tel HaShomer
+120,Golani Brigade,Tel HaShomer
+121,Artillery Corps,Negev Junction
+122,Intelligence Corps,Ashdod Base
+123,Combat Engineering Corps,Bislach
+124,Kfir Brigade,Negev Junction
+125,C4I Corps,Sde Dov
+126,Kfir Brigade,Eilat Base
+127,Golani Brigade,Sde Dov
+128,Military Police,Camp Dotan
+129,Golani Brigade,Mitzpe Ramon
+130,Air Force,Camp Dotan
+131,Artillery Corps,Ramat David
+132,C4I Corps,Netzarim Base
+133,Military Rabbinate,Michve Alon
+134,Home Front Command,Mitzpe Ramon
+135,Education and Youth Corps,Ramat David
+136,Artillery Corps,Julis Base
+137,Medical Corps,Ramat David
+138,C4I Corps,Haifa Port
+139,General Staff,Haifa Port
+140,Logistics Corps,Michve Alon
+141,Military Rabbinate,Bahad 1
+142,Paratroopers Brigade,Glilot
+143,Border Defense Corps,Kiryat Shmona
+144,Nahal Brigade,Bislach
+145,Paratroopers Brigade,Kiryat Shmona
+146,Artillery Corps,Michve Alon
+147,Border Defense Corps,Be'er Sheva Base
+148,Navy,Bahad 1
+149,Education and Youth Corps,Ramat David
+150,Air Force,Julis Base
+151,Military Rabbinate,Tel HaShomer
+152,Home Front Command,Glilot
+153,Air Force,Mitzpe Ramon
+154,Border Defense Corps,Eilat Base
+155,Medical Corps,Negev Junction
+156,Logistics Corps,Ramat David
+157,Armored Corps,Tzrifin
+158,Air Force,Bislach
+159,Border Defense Corps,Tzrifin
+160,Intelligence Corps,Bahad 1
+161,Paratroopers Brigade,Ashdod Base
+162,Kfir Brigade,Mitzpe Ramon
+163,Border Defense Corps,Sde Dov
+164,Combat Engineering Corps,Be'er Sheva Base
+165,Armored Corps,Netzarim Base
+166,Air Force,Be'er Sheva Base
+167,Medical Corps,Be'er Sheva Base
+168,Combat Engineering Corps,Kirya Tel Aviv
+169,Intelligence Corps,Kirya Tel Aviv
+170,Air Force,Palmachim
+171,Logistics Corps,Michve Alon
+172,General Staff,Eilat Base
+173,Kfir Brigade,Glilot
+174,Medical Corps,Negev Junction
+175,Armored Corps,Haifa Port
+176,Artillery Corps,Palmachim
+177,Military Rabbinate,Ashdod Base
+178,Golani Brigade,Sde Dov
+179,Combat Engineering Corps,Haifa Port
+180,Air Force,Negev Junction
+181,Combat Engineering Corps,Sde Dov
+182,General Staff,Tzeelim
+183,Medical Corps,Glilot
+184,Golani Brigade,Palmachim
+185,Golani Brigade,Eilat Base
+186,Intelligence Corps,Palmachim
+187,Givati Brigade,Ramat David
+188,Givati Brigade,Julis Base
+189,Intelligence Corps,Michve Alon
+190,Armored Corps,Be'er Sheva Base
+191,C4I Corps,Eilat Base
+192,Medical Corps,Michve Alon
+193,Intelligence Corps,Kirya Tel Aviv
+194,Logistics Corps,Bahad 1
+195,Nahal Brigade,Tzrifin
+196,Armored Corps,Glilot
+197,Combat Engineering Corps,Kirya Tel Aviv
+198,Kfir Brigade,Tel HaShomer
+199,C4I Corps,Ashdod Base
+200,General Staff,Michve Alon
+201,Military Police,Eilat Base
+202,Combat Engineering Corps,Michve Alon
+203,Education and Youth Corps,Kiryat Shmona
+204,Navy,Palmachim
+205,Medical Corps,Camp Dotan
+206,Military Police,Camp Dotan
+207,Education and Youth Corps,Michve Alon
+208,Military Police,Bislach
+209,Intelligence Corps,Palmachim
+210,C4I Corps,Be'er Sheva Base
+211,Givati Brigade,Palmachim
+212,Home Front Command,Ashdod Base
+213,Air Force,Sde Dov
+214,Logistics Corps,Ashdod Base
+215,General Staff,Palmachim
+216,C4I Corps,Tel HaShomer
+217,Combat Engineering Corps,Negev Junction
+218,Golani Brigade,Eilat Base
+219,Air Force,Sde Dov
+220,Military Police,Palmachim
+221,Golani Brigade,Bahad 1
+222,Kfir Brigade,Ramat David
+223,Border Defense Corps,Eilat Base
+224,Givati Brigade,Mitzpe Ramon
+225,Intelligence Corps,Negev Junction
+226,Paratroopers Brigade,Tzrifin
+227,Military Police,Be'er Sheva Base
+228,Armored Corps,Kirya Tel Aviv
+229,Border Defense Corps,Haifa Port
+230,Navy,Tzeelim
+231,Nahal Brigade,Tzeelim
+232,Logistics Corps,Michve Alon
+233,Kfir Brigade,Tel HaShomer
+234,Military Rabbinate,Ramat David
+235,Armored Corps,Tel HaShomer
+236,Artillery Corps,Glilot
+237,Givati Brigade,Camp Dotan
+238,General Staff,Camp Dotan
+239,Education and Youth Corps,Kirya Tel Aviv
+240,Education and Youth Corps,Bahad 1
+241,Military Rabbinate,Tzrifin
+242,Medical Corps,Tzrifin
+243,Paratroopers Brigade,Negev Junction
+244,Nahal Brigade,Netzarim Base
+245,C4I Corps,Kiryat Shmona
+246,Education and Youth Corps,Palmachim
+247,General Staff,Tzeelim
+248,Home Front Command,Haifa Port
+249,General Staff,Julis Base
+250,Artillery Corps,Bahad 1
+251,Golani Brigade,Glilot
+252,Education and Youth Corps,Haifa Port
+253,Kfir Brigade,Bislach
+254,Paratroopers Brigade,Tel HaShomer
+255,Artillery Corps,Kiryat Shmona
+256,Armored Corps,Be'er Sheva Base
+257,Logistics Corps,Ramat David
+258,Kfir Brigade,Bislach
+259,C4I Corps,Ramat David
+260,Artillery Corps,Michve Alon
+261,Givati Brigade,Kirya Tel Aviv
+262,Air Force,Palmachim
+263,Logistics Corps,Haifa Port
+264,Navy,Michve Alon
+265,Medical Corps,Julis Base
+266,Education and Youth Corps,Glilot
+267,General Staff,Tzeelim
+268,Paratroopers Brigade,Netzarim Base
+269,Artillery Corps,Glilot
+270,Combat Engineering Corps,Glilot
+271,Givati Brigade,Bahad 1
+272,Paratroopers Brigade,Be'er Sheva Base
+273,Kfir Brigade,Bahad 1
+274,Medical Corps,Negev Junction
+275,Armored Corps,Camp Dotan
+276,Medical Corps,Tzrifin
+277,C4I Corps,Bahad 1
+278,Air Force,Tzrifin
+279,Military Police,Negev Junction
+280,Kfir Brigade,Tel HaShomer
+281,Armored Corps,Palmachim
+282,Nahal Brigade,Netzarim Base
+283,Logistics Corps,Ashdod Base
+284,Military Rabbinate,Tzrifin
+285,Logistics Corps,Michve Alon
+286,Kfir Brigade,Tzrifin
+287,Logistics Corps,Tzeelim
+288,Navy,Julis Base
+289,Intelligence Corps,Sde Dov
+290,Military Rabbinate,Haifa Port
+291,Artillery Corps,Ashdod Base
+292,Military Police,Palmachim
+293,C4I Corps,Netzarim Base
+294,General Staff,Mitzpe Ramon
+295,Logistics Corps,Tzrifin
+296,Combat Engineering Corps,Ramat David
+297,Kfir Brigade,Negev Junction
+298,Nahal Brigade,Haifa Port
+299,Education and Youth Corps,Negev Junction
+300,Logistics Corps,Bislach
+301,Armored Corps,Tzeelim
+302,Home Front Command,Netzarim Base
+303,C4I Corps,Haifa Port
+304,Air Force,Mitzpe Ramon
+305,Home Front Command,Tel HaShomer
+306,Combat Engineering Corps,Ramat David
+307,General Staff,Camp Dotan
+308,Medical Corps,Mitzpe Ramon
+309,Border Defense Corps,Tzrifin
+310,Military Rabbinate,Tel HaShomer
+311,Home Front Command,Bislach
+312,Combat Engineering Corps,Kiryat Shmona
+313,Home Front Command,Tzrifin
+314,Logistics Corps,Bahad 1
+315,Military Rabbinate,Kirya Tel Aviv
+316,Kfir Brigade,Ashdod Base
+317,Navy,Kiryat Shmona
+318,Logistics Corps,Tzeelim
+319,Home Front Command,Ashdod Base
+320,C4I Corps,Negev Junction
+321,Home Front Command,Netzarim Base
+322,Home Front Command,Haifa Port
+323,Intelligence Corps,Tel HaShomer
+324,Border Defense Corps,Ramat David
+325,Intelligence Corps,Negev Junction
+326,Education and Youth Corps,Bahad 1
+327,Medical Corps,Camp Dotan
+328,Education and Youth Corps,Mitzpe Ramon
+329,Military Rabbinate,Sde Dov
+330,Medical Corps,Mitzpe Ramon
+331,General Staff,Sde Dov
+332,C4I Corps,Eilat Base
+333,Navy,Netzarim Base
+334,Golani Brigade,Sde Dov
+335,Kfir Brigade,Mitzpe Ramon
+336,Givati Brigade,Bislach
+337,Military Police,Ramat David
+338,Combat Engineering Corps,Glilot
+339,Home Front Command,Negev Junction
+340,Logistics Corps,Sde Dov
+341,Navy,Haifa Port
+342,Paratroopers Brigade,Sde Dov
+343,C4I Corps,Netzarim Base
+344,Air Force,Mitzpe Ramon
+345,Combat Engineering Corps,Ashdod Base
+346,Military Rabbinate,Netzarim Base
+347,Intelligence Corps,Be'er Sheva Base
+348,General Staff,Tzeelim
+349,Air Force,Kiryat Shmona
+350,Intelligence Corps,Kirya Tel Aviv
+351,Medical Corps,Ashdod Base
+352,Nahal Brigade,Eilat Base
+353,Golani Brigade,Eilat Base
+354,Military Rabbinate,Palmachim
+355,Kfir Brigade,Kirya Tel Aviv
+356,Paratroopers Brigade,Bahad 1
+357,Home Front Command,Palmachim
+358,Military Police,Netzarim Base
+359,Medical Corps,Negev Junction
+360,Education and Youth Corps,Netzarim Base
+361,Paratroopers Brigade,Ramat David
+362,Nahal Brigade,Palmachim
+363,Golani Brigade,Kiryat Shmona
+364,C4I Corps,Kiryat Shmona
+365,Air Force,Bislach
+366,Air Force,Palmachim
+367,Armored Corps,Mitzpe Ramon
+368,Military Police,Julis Base
+369,Intelligence Corps,Bislach
+370,Medical Corps,Be'er Sheva Base
+371,Givati Brigade,Kirya Tel Aviv
+372,Armored Corps,Bislach
+373,Medical Corps,Be'er Sheva Base
+374,Paratroopers Brigade,Michve Alon
+375,Military Police,Michve Alon
+376,Military Police,Tzeelim
+377,C4I Corps,Bahad 1
+378,Border Defense Corps,Negev Junction
+379,Navy,Sde Dov
+380,Military Rabbinate,Ashdod Base
+381,Combat Engineering Corps,Glilot
+382,Military Police,Palmachim
+383,Combat Engineering Corps,Julis Base
+384,Combat Engineering Corps,Tzeelim
+385,Education and Youth Corps,Kiryat Shmona
+386,Border Defense Corps,Palmachim
+387,Navy,Haifa Port
+388,Kfir Brigade,Be'er Sheva Base
+389,Military Rabbinate,Tel HaShomer
+390,Border Defense Corps,Bahad 1
+391,Home Front Command,Netzarim Base
+392,Combat Engineering Corps,Tzrifin
+393,Medical Corps,Kirya Tel Aviv
+394,Intelligence Corps,Negev Junction
+395,Kfir Brigade,Haifa Port
+396,C4I Corps,Glilot
+397,Logistics Corps,Tzeelim
+398,Medical Corps,Michve Alon
+399,Military Police,Negev Junction
+400,Armored Corps,Tzeelim
